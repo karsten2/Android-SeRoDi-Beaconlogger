@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beaconlogger</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About Beaconlogger</string>
+    <string name="label_switch">Service starten/beenden</string>
+    <string name="AboutDialogMessage">Beaconlogger 1.0</string>
+    <string name="AboutDialogPositiveButton">Okay</string>
+</resources>
